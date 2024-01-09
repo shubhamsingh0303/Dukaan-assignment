@@ -1,0 +1,26 @@
+.sidebarbody{
+    display:grid;
+    background-color: rgb(30,38,64);
+    padding:2% 1% 0% 1%;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.profilename{
+    padding-bottom: 10%;
+    display: flex;
+}
+
+.displaylist{
+    display: flex;
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    padding-left: 10px;
+    background-color: rgb(53,60,83);
+    border-radius: 7px;
+}
